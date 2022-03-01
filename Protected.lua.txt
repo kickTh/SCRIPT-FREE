@@ -1,3 +1,4 @@
 setclipboard("https://discord.gg/wGDgrfNBmj")
-game.Players.LocalPlayer:Kick("Join Discord SOME X HUB https://discord.gg/wGDgrfNBmj")
 
+_G.Color = Color3.fromRGB(255,255,255) 
+loadstring(game:HttpGet"https://raw.githubusercontent.com/kickTh/SCRIPT-SOME-X-HUB/main/README.md")()
