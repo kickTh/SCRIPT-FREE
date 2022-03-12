@@ -6,7 +6,7 @@ end
 
 
 if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then -- Blox fruit
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kickTh/SCRIPT-FREE/main/New.txt", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/kickTh/SCRIPT-FREE/main/Protected.lua.txt", true))()
 end
 
 if game.PlaceId == 662417684 then -- LUCKY-BLOCKS-Battlegrounds
