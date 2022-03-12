@@ -1,5 +1,5 @@
 
-if game.PlaceId == 6329844902 then -- Last Pirates
+if game.PlaceId == 6329844902 then -- Last-Pirates
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/kickTh/SCRIPT-FREE/main/Last%20Pirates.lua.txt", true))()
 end
 
